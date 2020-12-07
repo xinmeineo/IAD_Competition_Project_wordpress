@@ -79,6 +79,8 @@ $table_prefix = 'wcm_';
  */
 define( 'WP_DEBUG', false );
 
+define ( 'DISALLOW_FILE_EDIT', true );
+
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
